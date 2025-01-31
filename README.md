@@ -3,7 +3,7 @@
 You find the Update here
 https://github.com/Plocks2023/esx_menu_default/releases/tag/esx_menu_default
 ## Tutorial
-![Menu Exemple](<a href='https://postimg.cc/4mpRm2Tq' target='_blank'><img src='https://i.postimg.cc/4mpRm2Tq/image.png' border='0' alt='image'/></a>)
+<a href='https://postimg.cc/4mpRm2Tq' target='_blank'><img src='https://i.postimg.cc/4mpRm2Tq/image.png' border='0' alt='image'/></a>
 
 
 # ESX MENU DEFAULT GTA ONLINE STYLE
