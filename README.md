@@ -86,5 +86,5 @@ everything is possible :
 ![Exemple](https://i.gyazo.com/10df6a7551488e3b5a6741a12afa7946.png)
 ![Exemple](https://i.gyazo.com/9fd978ab07fdde2e7c68f5fa70555b7f.png)
 
-To edit some header there is the template.psd but there is a lot of header in img folder
+To edit some header there is the template.psd but there is a lot of header in img folder if you need help join our Discord https://discord.gg/NZTdgUX5Gt
 
